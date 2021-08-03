@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /research/
+title: "Research"
 ---
 
 ## This page is under construction. Please come back later :)
