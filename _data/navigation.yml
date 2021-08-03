@@ -19,13 +19,11 @@ main:
   #- title: "Blog Posts"
     #url: /year-archive/
   
-  - title: "CV"
-    url: /cv/
-
   - title: "Blog"
     url: /blog/
     
- 
+  - title: "CV"
+    url: /cv/
     
   #- title: "Outreach"
     #url: /cv/
