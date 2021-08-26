@@ -27,13 +27,15 @@ I’m also looking into developing ENIGMA (Eccentric Non-Gaussian I ) waveform t
 
 We can infer many things from Gravitational Wave data, such as the characteristics of the source and its Astrophysics. With the advent of multi-messenger astronomy, we can now look at the same astronomical phenomena in different wavelengths and from gravitational wave data. I worked on sources for the upcoming LISA detector, called verification binary. These binaries are well-known from electromagnetic observations, are a guaranteed LISA source, and are crucial in the instrument’s initial functional tests. I developed a method to calculate the inclination and orientation angle of the binary using polarimetric methods. 
 
+<p align="center">
+  <img width="300" height="200" src="https://d3i71xaburhd42.cloudfront.net/d88cdfbe64be2b2dbc77d3a21b29396e9b267a50/6-Figure3-1.png">
+</p>
+
 - Astrobites Article
 - AAS presentation
 
 ## Primordial Gravitational Waves
 
-<p align="center">
-  <img width="450" height="150" src="https://www.ligo.org/science/Publication-O1O2EccentricBBH/Images/eccentricwaveform.png">
-</p>
+
 
 Primordial gravitational waves are relics from the early history of the universe right after the Big Bang. They are significant to study the inflationary phase of the universe. These waves still form a stochastic background, and it is possible to detect this faint signal from gravitational data, primarily from the Pulsar Timing Array experiment. I’m currently studying the evolution of these primordial tenor perturbations from inflation and the reheating phase of the universe and looking at how different inflation models could be verified based on the detection of the stochastic gravitational-wave background.
