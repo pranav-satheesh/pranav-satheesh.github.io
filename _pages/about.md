@@ -18,3 +18,4 @@ For a detailed summary of my research, checkout the [research page](projects) (S
 
 
 
+![](/images/aboutmecartoon.png)
