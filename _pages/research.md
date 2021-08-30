@@ -23,7 +23,7 @@ I’m involved in modelling GWs from binary black holes in eccentric orbits. The
 
 I’m also looking into developing ENIGMA (Eccentric Non-Gaussian I ) waveform to expand its formalism to general orbit and quasi-keplerian formalism. This model is currently a non-spinning model, and we’d like to add spin effects to construct a GW model for spinning BBH finally. This model will be used in future LIGO searches.
 
-- Presentation at Amaldi
+<!-- - Presentation at Amaldi -->
 
 ## Gravitational Wave Sources
 
@@ -37,8 +37,8 @@ We can infer many things from Gravitational Wave data, such as the characteristi
 
  
 
-- Astrobites Article
-- AAS presentation
+- [Astrobites Article](https://astrobites.org/2021/06/20/ur-a-spectropolarimetric-method-for-predicting-the-gravitational-wave-polarisation-of-lisa-verification-binaries/)
+
 
 ## Primordial Gravitational Waves
 
