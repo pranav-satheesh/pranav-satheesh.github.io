@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 gallery:
   - url: abt/aboutmecartoon.png
+  - image_path: abt/aboutmecartoon.png 
   - alt: "Catoon credits: New Yorker, February 12, 2016"
   - title: "Catoon credits: New Yorker, February 12, 2016"
 ---
