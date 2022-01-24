@@ -41,11 +41,9 @@ I love conducting lectures! Public lectures are one of the effective ways of com
 - **Surfing gravitational waves**, *Astro Week*, Aug 2019 
 - **An introduction to Astronomy**, Sep 2018
 
-## Lectures in Youtube
+## Lectures on Youtube
 
 I made a set of lectures on Python for Astronomy that aims to teach application of Python programming language in various aspects of Astronomy research. I could cover topics such as handling FITS files, making Color-Magnitude diagrams, curve-fitting and modeling data. The video playlist is available [here](https://youtube.com/playlist?list=PL2rHXmvrOZXbQviht65mZSOW0_s1ZPpLA).
-
-{% include video id="fadnVLfb2Ds" provider="youtube" %}
 
 I wish to extend this series further sometime this year (2022). I am also looking forward to add more of my lectures on Youtube as online content gets the maximum amount of reach. 
 
