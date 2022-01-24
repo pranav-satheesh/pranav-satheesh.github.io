@@ -23,7 +23,7 @@ ages/outreach3.jpg"  style="width:300px" >
   height="200" />
 </p> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
     <img src="/images/outreach3.jpg"  style="width:100%">
   </div>
@@ -33,4 +33,10 @@ ages/outreach3.jpg"  style="width:300px" >
   <div class="column">
     <img src="/images/outreach5.jpg" style="width:100%">
   </div>
-</div>
+</div> -->
+
+<figure class="half" style="display:flex">
+    <img style="width:600px" src="/images/outreach6.jpg">
+    <img style="width:400px" src="/images/outreach5.jpg">
+    <!-- <figcaption>Caption describing these two images.</figcaption> -->
+</figure>
