@@ -16,7 +16,7 @@ I am currently working with the Gravitational Wave theory group at IITM led by [
 
 For a detailed summary of my research, checkout the [research page](research). You can find my conference presentations/papers [here](presentations). 
 
-I am also interested in science communication and outreach.
+I am also very active in science communication and [outreach](outreach).
 
 <p align="left">
   <img width="400" height="450" src="https://raw.githubusercontent.com/pranav-satheesh/pranav-satheesh.github.io/master/images/aboutmecartoon.png">
