@@ -7,8 +7,8 @@ gallery:
     image_path: outreach/outreach6.jpg
     alt: "One of the Horizon Lecture"
     title: "One of the Horizon Lecture on gravitational waves"
-  - url: images/outreach5.jpg
-    image_path: images/outreach5.jpg
+  - url: outreach/outreach5.jpg
+    image_path: outreach/outreach5.jpg
     alt: "Me explaining a concept on the board"
 gallery2:
   - url: outreach/outreach7.jpg
@@ -19,6 +19,10 @@ gallery2:
     image_path: outreach/outreach8.jpg
     alt: "Happy faces at VBO"
     title: "Happy faces at VBO (Jan 2020)"
+  - url: outreach/outreach9.jpg
+    image_path: outreach/outreach9.jpg
+    alt: "Milky Way"
+    title: "Milky Way"
 header:
   og_image: "outreach/outreach7.jpg"
 ---
