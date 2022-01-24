@@ -6,11 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery:
-  - url: abt/aboutmecartoon.png
-  - image_path: abt/aboutmecartoon.png 
-  - alt: "Catoon credits: New Yorker, February 12, 2016"
-  - title: "Catoon credits: New Yorker, February 12, 2016"
 ---
 
 Hi! Welcome to my website!
@@ -23,10 +18,9 @@ For a detailed summary of my research, checkout the [research page](research). Y
 
 I am also very active in science communication and [outreach](outreach).
 
-{% include gallery %}
+![](https://media.newyorker.com/cartoons/593b65345d2f45736c34cecc/master/w_1280,c_limit/birds.jpg)
+*"Was that you I heard just now, or was it two black holes colliding?”* 
 
-<!-- <p align="center">
-  <img width="400" height="450" src="https://raw.githubusercontent.com/pranav-satheesh/pranav-satheesh.github.io/master/images/aboutmecartoon.png">
-  <figcaption>Credits: New Yorker, February 12, 2016</figcaption>
-</p> -->
+Credits: New Yorker, February 12, 2016
+
 
