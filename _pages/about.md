@@ -16,11 +16,15 @@ I am currently working with the Gravitational Wave theory group at IITM led by [
 
 For a detailed summary of my research, checkout the [research page](research). You can find my conference presentations/papers [here](presentations). 
 
-I am also very active in science communication and [outreach](outreach).
+I am also very active in science communication and [outreach](outreach). 
 
-![](https://media.newyorker.com/cartoons/593b65345d2f45736c34cecc/master/w_1280,c_limit/birds.jpg)
-*"Was that you I heard just now, or was it two black holes colliding?”* 
+<p align="center">
+<img align="center" width="500" height="500" src="https://media.newyorker.com/cartoons/593b65345d2f45736c34cecc/master/w_1280,c_limit/birds.jpg">
+</p>
 
-Credits: New Yorker, February 12, 2016
+<div style="text-align: center"> <em>"Was that you I heard just now, or was it two black holes colliding?”</em>  </div>
+
+
+<div style="text-align: center"> <small> Credits: New Yorker, February 12, 2016 </small></div>
 
 
