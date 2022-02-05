@@ -1,6 +1,6 @@
 ---
-permalink: /resources/
-title: "Resources"
+permalink: /random/
+title: "Random fun stuffs"
 ---
 
 **Page still under construction...**

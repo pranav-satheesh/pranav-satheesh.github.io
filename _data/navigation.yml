@@ -27,5 +27,11 @@ main:
 
   - title: "Outreach"
     url: /outreach/
+
+  - title: "Resources"
+    url: /resources/
+  
+  - title: "Random"
+    url: /random/
   #- title: "Guide"
     #url: /markdown/

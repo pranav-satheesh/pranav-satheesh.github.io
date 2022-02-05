@@ -27,12 +27,12 @@ gallery2:
 
 Promoting science and spreading awareness should go hand in hand with scientific development. During my time as an undergrad at IIT Madras, I was fortunate to be part of several outreach activities as part of [Horizon: the physics and astronomy club](https://horizoniitm.github.io/). 
 
-## Public Lectures and workshops
+## Talks and workshops
 
 {% include gallery %}
 
 
-I love conducting lectures! Public lectures are one of the effective ways of communicaating your research. During my undergrad, I got to organize several lecture presentations and workshops. Below is a list of some of them.
+I love giving talks. Talks are one of the effective ways of communicaating your research. During my undergrad, I got to organize several lecture presentations and workshops. Below is a list of some of them.
 
 - **Relativity and Gravitation**, [*Horizon summer school 2021*](https://github.com/HorizonIITM/summer-school-2021), March 2020
 - **Physics of Compact Stars**, *Boltzmann Session*, April 2020
@@ -41,7 +41,7 @@ I love conducting lectures! Public lectures are one of the effective ways of com
 - **Surfing gravitational waves**, *Astro Week*, Aug 2019 
 - **An introduction to Astronomy**, Sep 2018
 
-## Lectures on Youtube
+### Lectures on Youtube
 
 I made a set of lectures on Python for Astronomy that aims to teach application of Python programming language in various aspects of Astronomy research. I could cover topics such as handling FITS files, making Color-Magnitude diagrams, curve-fitting and modeling data. The video playlist is available [here](https://youtube.com/playlist?list=PL2rHXmvrOZXbQviht65mZSOW0_s1ZPpLA).
 
