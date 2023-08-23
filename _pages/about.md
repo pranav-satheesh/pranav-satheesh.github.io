@@ -10,11 +10,12 @@ redirect_from:
 
 Hi! Welcome to my website!
 
-I am a final year BS-MS student in Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/). I am interested in Gravitational Wave astrophysics and Modelling gravitational waveforms using analytical methods and Numerical Relativity. I am an undergraduate member of the [LIGO Scientific Collobaration](https://www.ligo.org/). 
 
-I am currently working with the Gravitational Wave theory group at IITM led by [Chandra Kant Mishra](https://physics.iitm.ac.in/ckm). For my final year project work, I'm working on improving eccentric waveform models under joint supervision of [Prayush Kumar](https://www.icts.res.in/people/prayush-kumar)([ICTS-TIFR](https://www.icts.res.in/)) and Chandra Kant Mishra. 
+I am a second year PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/)'s group. I work on supermassive black holes, galaxy eolution and low-frequency gravitational waves in general.
 
-For a detailed summary of my research, checkout the [research page](research). You can find my conference presentations/papers [here](presentations). 
+I did a BS-MS Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms using analytical methods and Numerical Relativity. 
+
+For a detailed summary of my research, checkout the [research page](research) (A little outdated now). You can find my conference presentations/papers [here](presentations). 
 
 I am also very active in science communication and [outreach](outreach). 
 
