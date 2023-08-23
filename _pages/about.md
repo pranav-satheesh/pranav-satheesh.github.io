@@ -11,7 +11,7 @@ redirect_from:
 Hi! Welcome to my website!
 
 
-I am a second year PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/)'s group. I work on supermassive black holes, galaxy eolution and low-frequency gravitational waves in general.
+I am a second year PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/)'s group. I work on supermassive black holes, galaxy evolution and low-frequency gravitational wave sources in general.
 
 I did a BS-MS Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms using analytical methods and Numerical Relativity. 
 
