@@ -16,6 +16,11 @@ nav_order: 5
 
 I love making comics illustrating aspects of supermassive black holes, galaxy evolution and gravitational waves. You can find my comic on massive black hole formation published [here](https://sciwri.club/archives/13482) in ClubSciWri. 
 
+I have started an instagram account to post my comics and illustrations. You can follow me [@drawnbygravity](https://www.instagram.com/drawnbygravity/).
+
+[Here](/assets/pdf/zine_digital_layout.pdf) is a zine me and my friends made for the UN women and girls day in science 2026.
+
+
 *I'm working on a seperate page for my comics* :-)
 
 I volunteered as a writer for [Astrobites](https://astrobites.org/) (2023-2025). Astrobites cover astrophysical literature and present it in format accessible to undergraduate students in the physical sciences who are interested in active research. You can find all of my articles [here](https://astrobites.org/author/psatheesh/).
