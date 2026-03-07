@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Outreach/";
           },
+        },{id: "nav-comics-amp-illustrations",
+          title: "Comics &amp; Illustrations",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Comics/";
+          },
         },{id: "nav-blog",
           title: "Blog",
           description: "",
@@ -63,6 +70,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-attended-the-choir-conference-on-new-data-that-challenge-underlying-assumptions-in-early-galaxy-evolution-in-acadia-national-park-maine",
           title: 'Attended the Choir conference on New Data that Challenge Underlying Assumptions in Early...',
+          description: "",
+          section: "News",},{id: "news-my-paper-on-mergers-and-recoil-in-triple-massive-black-hole-systems-from-illustris-is-published-in-apj",
+          title: 'My paper on Mergers and Recoil in Triple Massive Black Hole Systems from...',
           description: "",
           section: "News",},{id: "projects-dynamics-of-supermassive-black-holes",
           title: 'Dynamics of supermassive black holes',
