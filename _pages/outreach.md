@@ -20,8 +20,7 @@ I have started an instagram account to post my comics and illustrations. You can
 
 [Here](/assets/pdf/zine_digital_layout.pdf) is a zine me and my friends made for the UN women and girls day in science 2026.
 
-
-*I'm working on a seperate page for my comics* :-)
+Check out my dedicated [Comics & Illustrations page](/Comics/) for more of my work!
 
 I volunteered as a writer for [Astrobites](https://astrobites.org/) (2023-2025). Astrobites cover astrophysical literature and present it in format accessible to undergraduate students in the physical sciences who are interested in active research. You can find all of my articles [here](https://astrobites.org/author/psatheesh/).
 

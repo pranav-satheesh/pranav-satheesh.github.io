@@ -9,7 +9,7 @@ cv_pdf: cv.pdf # Local PDF file
 # toc:
 #   sidebar: left
 ---
-(last updated: Sep 2025)
+(last updated: Mar 2026)
 
 <div style="width: 100%; height: 800px; border: 1px solid #ccc; border-radius: 5px;">
 <iframe src="{{ '/assets/pdf/cv.pdf' | relative_url }}" width="100%" height="800" frameborder="0">
