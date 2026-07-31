@@ -7,7 +7,7 @@ subtitle: Graduate Student (he/him)
 
 profile:
   align: right
-  image: pranav_satheesh.jpg
+  image: pranav_satheesh.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: pranavsatheesh@ufl.edu</p>
@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 
 Hello there! Welcome to my website!
 
-I am a PhD student in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Dr. Laura Blecha](http://www.phys.ufl.edu/~lblecha/) on supermassive black holes and galaxy evolution. I am also an associate member of [NANOGrav](https://nanograv.org/). For a detailed summary of my research and projects, checkout the [projects page](/projects/). Previously, I did a BS-MS in Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms for binary black holes. 
+I am a PhD candidate in Physics at [University of Florida](https://www.phys.ufl.edu/wp/), working with [Laura Blecha](http://www.phys.ufl.edu/~lblecha/) on supermassive black holes and galaxy evolution. I use cosmological simulations to study populations of massive black holes and model their dynamics in post-processing, and is interested in connecting massive black hole populations from simulations to gravitational wave and electromagnetic observations. For a detailed summary of my research and projects, checkout the [projects page](/projects/). 
 
-I am actively involved science communication and outreach. I volunteered as science-writer for Astrobites. I also make science-comics! You can check them out here. I also have a [blog](/blog/) which I plan to update periodically.
+I am an [LSST-DA Data Science Fellow](https://lsstdiscoveryalliance.org/lsst-discovery-alliance-programs/data-science-fellowship/) and incoming research analyst at the [Center For Computational Astrophysics (CCA)](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/), Flatiron Institute in New York. I am also an associate member of [NANOGrav](https://nanograv.org/). Prior to my PhD, I did a BS-MS in Physics at [Indian Institute of Technology Madras](https://www.iitm.ac.in/) where I was involved in modelling gravitational waveforms for binary black holes. I am actively involved science communication and outreach. I volunteered as science-writer for [Astrobites](https://astrobites.org/). I also help organize [ComsciCon](https://comscicon.org/), a flagship conference and workshop for training graduate students in science communication. I also make science-comics! You can check them out [here](/comics/). I also have a [blog](/blog/) which I plan to update periodically.
 
 <div style="text-align: left; margin: 0.2rem 0;">
   <img src="/assets/img/gw_from_bhs.png" alt="Gravitational waves from black holes" style="max-width: 40%; height: auto; border-radius: 0px;">
